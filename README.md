@@ -18,7 +18,7 @@ Finally, we compared and performed regression analysis on the relationship betwe
 Note: These data sets contained some incomplete or missing data, which may affect the accuracy or completeness of the analysis.
 
 # Visualization and Key Insights
-1. [View the dashboard created on tableau public](https://public.tableau.com/views/DataVizChallenge_Gun_Violence__Edu/scientificdashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+1. [View the Tableau dashboard](https://public.tableau.com/views/DataVizChallenge_Gun_Violence__Edu/scientificdashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 2. **Key Findings from the Regression Analysis:**
     1. The relationship between graduation rates and juvenile gun deaths is **inverse**—as graduation rates increase, juvenile gun deaths decrease.
     2. The relationship is **statistically significant** (p = 0.0122, p < 0.05).
