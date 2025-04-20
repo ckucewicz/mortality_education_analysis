@@ -22,7 +22,7 @@ Note: These data sets contained some incomplete or missing data, which may affec
 2. **Key Findings from the Regression Analysis:**
     1. The relationship between graduation rates and juvenile gun deaths is **inverse**—as graduation rates increase, juvenile gun deaths decrease.
     2. The relationship is **statistically significant** (p = 0.0122, p < 0.05).
-    3. For every **one-unit** in the graduation rate, there is an associated **decrease of 0.365 juvenile gun deaths** per 100K youth.
+    3. For every **one-unit** increase in the graduation rate, there is an associated **decrease of 0.365 juvenile gun deaths** per 100K youth.
 # Recommendations & Next Steps
 This analysis lays the groundwork for further exploration into the intersection of education and gun violence, raising several critical questions:
 1. What other factors contribute to the relationship between graduation rates and juvenile gun violence?
